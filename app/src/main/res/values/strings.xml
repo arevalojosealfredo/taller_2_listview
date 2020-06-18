@@ -6,4 +6,8 @@
     <string name="ingresarlado">Digite el valor del lado</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Borrar</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="base">Por favor, digite la base</string>
+    <string name="altura">Por favor, digite la altura</string>
+    <string name="calcular">Calcular</string>
 </resources>
