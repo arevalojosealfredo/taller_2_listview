@@ -3,7 +3,7 @@
     <string name="opciones">Opciones</string>
     <string name="areas">Áreas</string>
     <string name="cuadrado">Cuadrado</string>
-    <string name="ingresarlado">Digite el valor del lado</string>
+    <string name="ingreselado">Digite el valor del lado</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Borrar</string>
     <string name="rectangulo">Rectangulo</string>
@@ -17,4 +17,66 @@
     <string name="cilindro">Cilindro</string>
     <string name="cono">Cono</string>
     <string name="cubo">Cubo</string>
+    <string name="operacionesrealizadas">Operaciones realizadas</string>
+    <string name="numero">No</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="title_activity_areas">areas</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="show_resultado">Resultado</string>
+    <string name="opcion_listo">Listo!</string>
+    <string name="result_area"> El área es: </string>
+    <string name="centimentros">   cm^2</string>
+    <string name="result_volumen"> El volumen es: </string>
+    <string name="centimentroscub">   cm^3</string>
+
+    <string name="alturatext">Altura:</string>
+    <string name="basetext">Base:</string>
+    <string name="radiotext">Radio:</string>
+    <string name="ladotext">Lado:</string>
+
+    <string name="nombreop">Area Cuadrado</string>
+    <string name="nombreopRect">Área Rectangulo</string>
+    <string name="nombreopTrian">Área del Triangulo</string>
+    <string name="nombreopcir">Área del Circulo</string>
+
+    <string name="nombreopcubo">Volúmen del Cubo</string>
+    <string name="nombreopcono">Volúmen del Cono</string>
+    <string name="nombreopcil">Volúmen del Cilindro</string>
+    <string name="nomopEsf">Volúmen de la Esfera</string>
+
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/volumen</item>
+        <item>@string/operacionesrealizadas</item>
+    </string-array>
+
+    <string-array name="figurasPlanas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+
+    <string-array name="figurasSolidas">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+
+    <string name="error_lado">Error, debe ingresar el lado</string>
+    <string name="error_coma">Error, no puede ingresar coma</string>
+    <string name="error_altura">Error, Digite la altura</string>
+    <string name="error_base">Error, Digite la base</string>
+    <string name="error_radio">Error, debe ingresar el radio</string>
 </resources>
