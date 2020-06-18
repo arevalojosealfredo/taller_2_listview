@@ -10,4 +10,5 @@
     <string name="base">Por favor, digite la base</string>
     <string name="altura">Por favor, digite la altura</string>
     <string name="calcular">Calcular</string>
+    <string name="triangulo">Triángulo</string>
 </resources>
