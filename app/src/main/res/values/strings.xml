@@ -12,4 +12,5 @@
     <string name="triangulo">Triángulo</string>
     <string name="circulo">Circulo</string>
     <string name="radio">Por favor, digite el Radio</string>
+    <string name="volumen">Volúmenes</string>
 </resources>
