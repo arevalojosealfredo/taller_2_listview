@@ -14,4 +14,5 @@
     <string name="radio">Por favor, digite el Radio</string>
     <string name="volumen">Volúmenes</string>
     <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
 </resources>
