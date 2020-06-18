@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">taller_listview</string>
+    <string name="opciones">Opciones</string>
+    <string name="areas">Áreas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="ingresarlado">Digite el valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Borrar</string>
 </resources>
