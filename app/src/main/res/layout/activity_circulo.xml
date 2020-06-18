@@ -5,28 +5,20 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/lblRectangulo"
+        android:id="@+id/lblCirculo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="@string/rectangulo"
+        android:text="@string/circulo"
         android:textSize="24sp"
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/txtBase"
+        android:id="@+id/txtLado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/base"
-        android:inputType="number" />
-
-    <EditText
-        android:id="@+id/txtAltura"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="@string/altura"
+        android:hint="@string/radio"
         android:inputType="number" />
 
     <LinearLayout
@@ -35,7 +27,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/txtLado"
+            android:id="@+id/btnCalcular"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
