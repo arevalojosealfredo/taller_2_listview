@@ -11,8 +11,9 @@
     <string name="altura">Por favor, digite la altura</string>
     <string name="triangulo">Triángulo</string>
     <string name="circulo">Circulo</string>
-    <string name="radio">Por favor, digite el Radio</string>
+    <string name="radio">Por favor, digite el radio</string>
     <string name="volumen">Volúmenes</string>
     <string name="esfera">Esfera</string>
     <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
 </resources>
