@@ -16,4 +16,5 @@
     <string name="esfera">Esfera</string>
     <string name="cilindro">Cilindro</string>
     <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
 </resources>
